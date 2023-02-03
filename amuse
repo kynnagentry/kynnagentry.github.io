@@ -1,0 +1,14 @@
+<DOCTYPE html>
+  <html  lang="en">
+    <meta charset="UTF-8">
+    <title>Mildly Amusing</title>
+   </head>
+   <body>
+    <h1>Mildly Amusing</h1>
+    <h3>by Makynna Gentry</h3>
+    <p>The internet is a great venue for humor. This page contains some funny things that may make you laugh.</p>
+    <p>To see the HTML Code in Chrome, right-click the page and select "View Page Source" or press Ctrl+U.</p>
+    
+    <h2>Top Laugh</h2>
+    <p>When I think of funny comments on the web, this is usually the first one that comes to mind. Everyone's sense of humor is different, but maybe you'll find it hilarious as well! To save you time, this link should skip straight to where the funiness starts in the video</p>
+    <a href="https://www.reddit.com/">
