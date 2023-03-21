@@ -1,1 +1,25 @@
-
+<form action="https://www.google.com/search">
+  <fieldset>
+    <legend>Advanced Search</legend>
+    <label for="query">Search Query:</label>
+    <input type="text" name="q" id="query" required><br>
+    <label for="site">Search on Site:</label>
+    <input type="text" name="as_sitesearch" id="site"><br>
+    <label>File Type:</label>
+    <select name="as_filetype">
+      <option value="">Any</option>
+      <option value="pdf">PDF</option>
+      <option value="doc">Document</option>
+      <option value="jpg">Image</option>
+    </select><br>
+    <input type="checkbox" name="as_qdr" id="pastday" value="d">
+    <label for="pastday">Past 24 Hours</label><br>
+    <input type="radio" name="as_occt" id="anywhere" value="any">
+    <label for="anywhere">Anywhere</label>
+    <input type="radio" name="as_occt" id="title" value="title">
+    <label for="title">In Title</label>
+    <input type="radio" name="as_occt" id="url" value="url">
+    <label for="url">In URL</label><br>
+    <button type="submit">Search</button>
+  </fieldset>
+</form>
