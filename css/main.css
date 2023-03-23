@@ -38,4 +38,7 @@ img
   padding: 10px;
   border-radius: 25%;
 }
-
+input, select
+{
+  background-color: var(--UNC-Blue);
+}
