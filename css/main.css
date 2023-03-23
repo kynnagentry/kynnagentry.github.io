@@ -38,7 +38,7 @@ img
   padding: 10px;
   border-radius: 25%;
 }
-input, select, option
+input, select, option, label, button
 {
   background-color: var(--UNC-Blue);
 }
