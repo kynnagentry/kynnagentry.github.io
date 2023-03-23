@@ -38,8 +38,7 @@ img
   padding: 10px;
   border-radius: 25%;
 }
-
 input 
 {
-  color: var(--UNC-Blue);
+  background-color: var(--UNC-Blue);
 }
