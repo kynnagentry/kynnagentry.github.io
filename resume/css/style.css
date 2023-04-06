@@ -1,57 +1,43 @@
-body
-{
-    background-color: rgb(154, 161, 157);
+<style>
+img{
+    height: 125px;
 }
-h1
-{
-    text-align: center;
-    color: rgb(35, 74, 45);
-    font-size: 48pt;
+h1 {
+    color: rgb(1,45,91);
+    font-size: 45pt;
 }
-section h2
-{
-    margin: 5px;
-    font-size: 28pt;
+h2 {
+    color: rgb(79, 116, 139);
+    font-size: 35 pt;
 }
-section
-{
-    border: 3px solid black;
-    margin-top: 40px;
-    margin-bottom: 40px;
-    padding: 10px;
-    clear: both;
+h3 {
+    text-decoration: underline;
 }
-ul
-{
-    font-size: 18pt;
-    font-color: rgb(35, 74, 45);
+body { 
+    background-color: lightgreen;
 }
-.date
-{
-    color: goldenrod;
-    float: right;
+p {
+    font-style: italics;
 }
-nav a
-{   
-    font-size: 20pt;
-    font-weight: bold;
-    color:rgb(156, 217, 172);
+#contactinfo {
+    border: 4px solid grey;
+    margin: 2px;
 }
-#experience li
-{
-    border-bottom: 2px solid;
+#education {
+    border: 4px solid grey;
+    margin: 2px;
 }
-#education h3
-{
-    border-bottom: 2px solid;
+#experience { 
+    border: 4px solid grey; 
+    margin: 2px;
 }
-#skills li
-{
-    border-bottom: 2px solid;
-    font-size: 20pt;
-    font-weight: bold;
+#skills {
+    border: 4px solid grey;
+    margin 2px;
 }
-img
-{
-    border-radius: 50%;
+nav {
+    font-color: rgd(1, 45, 91);
+    border: 4px solid grey;
 }
+</style>
+    
