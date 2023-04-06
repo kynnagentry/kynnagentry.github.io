@@ -38,11 +38,12 @@ nav a
 }
 #experience li
 {
-    border-bottom: 2px solid
+    border-bottom: 2px solid;
+    font-size: 6vw;
 }
 #education h3
 {
-    border-bottom: 2px solid
+    border-bottom: 2px solid;
 }
 img
 {
