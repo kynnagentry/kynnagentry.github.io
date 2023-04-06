@@ -47,6 +47,8 @@ nav a
 #skills li
 {
     border-bottom: 2px solid;
+    font-size: 20pt;
+    font-weight: bold;
 }
 img
 {
