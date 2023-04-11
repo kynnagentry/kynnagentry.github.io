@@ -8,13 +8,13 @@ h1 {
 }
 h2 {
     color: rgb(79, 116, 139);
-    font-size: 45 pt;
+    font-size: 45pt;
 }
 h3 {
     text-decoration: underline;
 }
 body { 
-    background-color: lightgreen;
+    background-color: rgb(247, 250, 232);
 }
 p {
     font-style: italics;
