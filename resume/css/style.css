@@ -19,10 +19,6 @@ body {
 p {
     font-style: italics;
 }
-tr
-{
-    font-size: 25pt;
-}
 #contactinfo {
     border: 4px solid grey;
     margin: 2px;
