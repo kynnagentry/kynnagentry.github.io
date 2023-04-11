@@ -19,6 +19,14 @@ body {
 p {
     font-style: italics;
 }
+th
+{
+    font-size: 40pt;
+}
+td
+{
+    font-size:40pt;
+}
 #contactinfo {
     border: 4px solid grey;
     margin: 2px;
@@ -34,10 +42,6 @@ p {
 #skills {
     border: 4px solid grey;
     margin 2px;
-}
-th
-    {
-     font-size: 25pt;
 }
 nav {
     font-color: rgd(1, 45, 91);
