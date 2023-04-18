@@ -1,42 +1,37 @@
-<style>
-img{
-    height: 125px;
+:root
+{
+  --UNC-Blue:#013c65;
+  --UNC-Gold: #f6b000;
+  --UNC-Gray: #8a8a8d;
 }
-h1 {
-    color: rgb(1,45,91);
-    font-size: 45pt;
+body
+{
+    background-color: var(--UNC-Gray);
 }
-h2 {
-    color: rgb(79, 116, 139);
-    font-size: 35pt;
+*
+{
+    color: var(--UNC-Blue);
+    text-align: center;
 }
-h3 {
-    text-decoration: underline;
+h1
+{
+    text-align: center;
+    font-size: calc(12pt + 4vw);
 }
-body { 
-    background-color: rgb(247, 250, 232);
+nav
+{
+    border: 3px var(--UNC-Gold) solid;
 }
-p {
-    font-style: italics;
+section
+{
+    border: 3px var(--UNC-Blue) solid;
+    margin: 5px;
 }
-#contactinfo {
-    border: 4px solid grey;
-    margin: 2px;
+.date
+{
+    color: var(--UNC-Gold);
 }
-#education {
-    border: 4px solid grey;
-    margin: 2px;
+li
+{
+    display: block;
 }
-#experience { 
-    border: 4px solid grey; 
-    margin: 2px;
-}
-#skills {
-    border: 4px solid grey;
-    margin 2px;
-}
-nav {
-    font-color: rgd(1, 45, 91);
-    border: 4px solid grey;
-}
-</style>
