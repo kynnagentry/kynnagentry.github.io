@@ -6,11 +6,11 @@
 }
 body
 {
-    background-color: var(--UNC-Gray);
+    background-color: rgb(1,45,91);
 }
 *
 {
-    color: var(--UNC-Blue);
+    color: rgb(79, 116, 139);
     text-align: center;
 }
 h1
