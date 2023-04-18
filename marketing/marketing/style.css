@@ -3,11 +3,11 @@ img{
     height: 125px;
 }
 h1 {
-    color: rgb(1,45,91);
+    color: black;
     font-size: 45pt;
 }
 h2 {
-    color: rgb(79, 116, 139);
+    color: white;
     font-size: 35pt;
 }
 h3 {
@@ -19,19 +19,19 @@ body {
 p {
     font-style: italics;
 }
-#contactinfo {
+#about {
     border: 4px solid grey;
     margin: 2px;
 }
-#education {
+#location {
     border: 4px solid grey;
     margin: 2px;
 }
-#experience { 
+#locations { 
     border: 4px solid grey; 
     margin: 2px;
 }
-#skills {
+#socials {
     border: 4px solid grey;
     margin 2px;
 }
