@@ -3,7 +3,7 @@ img{
     height: 125px;
 }
 h1 {
-    color: black;
+    color: white;
     font-size: 45pt;
 }
 h2 {
@@ -14,7 +14,7 @@ h3 {
     text-decoration: underline;
 }
 body { 
-    background-color: rgb(247, 250, 232);
+    background-color: black;
 }
 p {
     font-style: italics;
